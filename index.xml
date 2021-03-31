@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://filmauri.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Books</title>
+      <link>https://filmauri.github.io/about/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://filmauri.github.io/about/</guid>
+      <description>Libri in lettura
+ I quattro amori (C.S. Lewis) Con cura, diario di un medico deciso a fare meglio (Gawande Atul)  Libri da leggere
+ Addio alle armi (Ernest Hemingway) Bioetica (Adriano Pessina) Bunker Diary (kevin Brooks) Data and Goliath (Bruce Schneier) Dottor Jakyill and mr Hyde Entropia e Arte Evoluzione e libertà (Hans Jonas) How Not To Be Wrong (Jordan Ellenberg) I duellanti (Conrad) I problemi della filosofia (Bertrand Russel) Il Gene (Siddartha Mukherjee) Il morbo dei dottori.</description>
+    </item>
+    
+    <item>
       <title>My first Post</title>
       <link>https://filmauri.github.io/posts/tg-gh/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
@@ -24,15 +35,6 @@ Spero che questo progetto non finisca nel dimenticatoio tra 5 giorni!</descripti
       
       <guid>https://filmauri.github.io/archives/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://filmauri.github.io/about/</link>
-      <pubDate>Tue, 17 Jun 2003 00:00:00 +0000</pubDate>
-      
-      <guid>https://filmauri.github.io/about/</guid>
-      <description>I don&amp;rsquo;t know how to describe me</description>
     </item>
     
   </channel>
