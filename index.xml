@@ -6,7 +6,16 @@
     <description>Recent content on filippo.im</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://filmauri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://filmauri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create a site using HUGO</title>
+      <link>https://filmauri.github.io/posts/tutorialsite/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://filmauri.github.io/posts/tutorialsite/</guid>
+      <description>Want to have a site similar to mine without spending a dime? Do you want it a little more beautiful? Then you&amp;rsquo;re in the right place! A few days ago I had a few hours free during an afternoon and I wanted to try my hand at what I thought was one of the greatest feats in human history. Well, thank goodness, it wasn&amp;rsquo;t as hard as I thought it would be.</description>
+    </item>
+    
     <item>
       <title>Books</title>
       <link>https://filmauri.github.io/about/</link>
@@ -22,7 +31,7 @@
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://filmauri.github.io/films/</guid>
-      <description>Films da vedere Film visti </description>
+      <description>Films da vedere Film visti  Il gladiatore, Ridley Scott, 2000 ⭐  </description>
     </item>
     
     <item>
