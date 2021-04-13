@@ -16,7 +16,7 @@ body {
 }
 
 hr {
-  border-top: 3px dotted blue;
+  border-top: 3px dotted dodgerblue;
 }
 code {
   background-color: lightblue;
@@ -31,7 +31,7 @@ pre {
   padding: 1em;
 }
 blockquote {
-  border-color: blue;
+  border-color: rgb(20, 97, 173);
 }
 
 h1,
