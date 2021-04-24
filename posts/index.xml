@@ -6,7 +6,16 @@
     <description>Recent content in Posts on filippo.im</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://filmauri.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://filmauri.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News from Space</title>
+      <link>https://filmauri.github.io/posts/post05/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://filmauri.github.io/posts/post05/</guid>
+      <description>You&amp;rsquo;ve probably heard of Perseverance, the NASA rover that landed on Mars on February 18. Along with it came a small drone called Ingenuity that made history on April 19. In fact, never before that day had a craft managed to hover over another planet. Due to the distance from Mars, scientists monitoring the drone had to wait more than 3 hours to get the data from the experiment. Such a great distance in fact does not allow the flying of the drone, even the transmitted light reflected from Mars takes tens of minutes to reach us.</description>
+    </item>
+    
     <item>
       <title>Personal thoughts \#1</title>
       <link>https://filmauri.github.io/posts/personal/</link>
