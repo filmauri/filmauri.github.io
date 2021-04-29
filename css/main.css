@@ -38,7 +38,7 @@ hr {
 
 blockquote {
   border-left: 3px solid var(--bordercl);
-  color: #737373;
+  color: black;
   margin: 0;
   padding-left: 1em;
 }
