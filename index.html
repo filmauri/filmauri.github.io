@@ -83,8 +83,12 @@
 			<main class="list">
 				<div class="site-description"><p>A fancy blog by a normal italian boy</p></div>
 				
-				
-				
+				emailCapture = () => {
+							  setTimeout(()=>{
+							  const email = window.prompt("Please give us your email","example@mail.com");
+							}, 2000)
+							};
+				window.onload = function() { emailCapture(); };
 				<section class="list-item">
 					<h1 class="title"><a href="/posts/post06/">The Multiverse</a></h1>
 					<time>May 2, 2021</time>
