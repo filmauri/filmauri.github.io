@@ -94,6 +94,15 @@ figure img {
   }
 }
 
+@media (hover: none) {
+	.parallax {
+	  height: auto;
+	  background-attachment: scroll;
+	  background-size: contain;
+	  background-repeat: repeat;
+	}
+}
+
 figure h4 {
   font-size: 1rem;
   margin: 0;
