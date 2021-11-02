@@ -158,12 +158,9 @@ header {
 header .main {
   font-size: 1.5rem;
 }
-h1{
-	font-size: 1.8rem;
-  margin-top: 2.6em;
-}
 
-h2, h3, h4, h5, h6 {
+
+h1, h2, h3, h4, h5, h6 {
   font-size: 1.2rem;
   margin-top: 2em;
 }
