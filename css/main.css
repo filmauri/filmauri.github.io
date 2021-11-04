@@ -121,13 +121,14 @@ figure h4::before {
 }
 
 #navbar a {
-  float: left;
+  float: center;
   display: block;
   color: #f2f2f2;
   text-align: center;
   padding: 15px;
   text-decoration: none;
   font-size: 17px;
+  font-color:#000000;
 }
 
 #navbar a:hover {
