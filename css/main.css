@@ -111,31 +111,6 @@ figure h4::before {
   content: '↳ ';
 }
 
-#navbar {
-  background-color: #fff;
-  position: fixed;
-  top: -50px;
-  width: 100%;
-  display: block;
-  transition: top 0.3s;
-}
-
-#navbar a {
-  float: center;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 15px;
-  text-decoration: none;
-  font-size: 17px;
-  font-color:#000000;
-}
-
-#navbar a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
 /* Code blocks */
 code {
   background-color: #f1f1f1;
