@@ -307,3 +307,67 @@ content: 'Markdown';
 background: royalblue;
 color: whitesmoke ;
 }
+/* Proviaml*/
+article:nth-child(even) {
+    background: #0000ff5c;
+    flex-direction: row-reverse;
+}
+article {
+    padding-bottom: 40px;
+    padding-top: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+.article-number {
+    vertical-align: top;
+    position: relative;
+    text-align: center;
+    font-weight: 700;
+    font-size: 260px;
+    width: 320px;
+    line-height: 180px;
+    height: 196px;
+    z-index: 1;
+}
+div {
+    display: block;
+}
+
+.article-image {
+    margin-right: -120px;
+    margin-left: -120px;
+    width: 400px;
+    height: 400px;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.article-content {
+    background: rgba(0, 0, 0, 0.9);
+    font-weight: lighter;
+    vertical-align: top;
+    position: relative;
+    text-align: left;
+    font-size: 10px;
+    width: 400px;
+    padding: 20px;
+    color: #fff;
+}
+
+.article-content p {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
